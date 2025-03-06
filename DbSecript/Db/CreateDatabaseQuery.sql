@@ -1,0 +1,1 @@
+CREATE DATABASE Recorded_Courses_System
